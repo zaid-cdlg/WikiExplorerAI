@@ -20,6 +20,5 @@ pip install urllib3
 pip install regex
 
 
-# This comprehensive `requirements.md` file outlines all the necessary steps and dependencies for setting up and running your WikiWebCrawler project.
-# It's structured to provide clear guidance for users to prepare their environment for the project.
+## It's structured to provide clear guidance for users to prepare their environment for the project.
 
